@@ -1,0 +1,9 @@
+Hospital Management System
+Mis No: 141503003
+Name : Ashlesha Kishorrao Deshmukh
+
+
+	This project introduces “Hospital Management" system which performs the operatins mostly uses in any hospital.This project is developed in c language. File handling is used for storing and retrieving data.The project is divided into two modules, patient and doctor.
+Both modules support the various operations such as inserting records of patients and doctors, updating the existing records,listing patients
+according to alphabetical order, patients in OPD and patients in emergency,patients in particular date, listing records of permanant doctor
+and temporary doctor, and deleting existing records. 
